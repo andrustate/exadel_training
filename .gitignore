@@ -1,5 +1,5 @@
 ---------------------------------------------
-# содержимое файла .gitignore для IDEA
+# It's .gitignore for IDEA
 *.iml
 .DS_Store/
 .idea/
